@@ -1,0 +1,138 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+background-color: antiquewhite;   
+ font-family: 'pattaya';
+  }
+  
+  
+  .MY-Shopping-Cart {
+    width: 1000px;
+    height: 750px;
+    margin: 40px auto;
+
+    background-color: peachpuff;
+     box-shadow: 20px 20px 20px 20px rgba(128, 46, 46, 0.1);
+    border-radius: 10 px;
+   
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  #My-Carts-Jewerly{
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  
+  .Jewerly {
+  
+    height: 120%;
+    width: auto;
+  
+  }
+
+
+
+  .title-1{
+    height: 100px;
+    padding: 30px 60px;
+    color: sienna;
+background-color: antiquewhite;   
+font-size: 50px;
+    font-weight: 500px;
+    text-align: center;
+    padding-top: 30px;
+  }
+  
+  .My-total-cart{
+  
+    width:1000px;
+    height: 40px;
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+   padding-left: 60px;
+background-color: antiquewhite;  
+}
+
+
+  .My-collection{
+    padding: 10px 10px ;
+  padding-bottom: 40px;
+    height: 200px;
+    display: flex;
+   justify-content: space-around;
+  
+  }
+
+
+  .buttons-types{
+    position: relative;
+    padding-top: 70px;
+    margin-right: 60px;
+  }
+  
+ 
+  
+  .buttons-cart  {
+    position: relative;
+    padding-left: 30px;
+    margin-right: 60px;
+    padding-top: 70px;
+
+  }
+
+.title-jewerly {
+font-size: 20px;
+  padding-top: 70px;
+  color: chocolate;
+}
+
+.SUM {
+
+padding-top: 75px;
+width: 30px;
+}
+
+
+.REMOVE-btn,
+
+  .like-btn {
+    display: inline-block;
+    Cursor: pointer;
+  }
+
+
+  
+  .buttons .fas {
+    color: black;
+   }
+  
+  .eliminate-btn {
+    width: 17px;
+    height: 17px;
+    background: url("REMOVE-icn.png") no-repeat center;
+  }
+  
+  
+  
+  .cart-total-sum{
+    width: 83px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 16px;
+    
+  }
+  
+  
+  
+  
+ 
+  
+  
